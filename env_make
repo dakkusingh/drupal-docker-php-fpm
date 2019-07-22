@@ -1,0 +1,2 @@
+ENV = \
+  -e APP_ROOT="/var/www/html"
